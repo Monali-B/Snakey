@@ -15,7 +15,6 @@ The Snake game is a classic arcade game where the player controls a snake that m
 ## Features
 
 - Recognizes `W`, `A`, `S`, `D`(uppercase and lowercase) keys for movement direction.
-- Exits when the 'q' key is pressed.
 
 ## Requirements
 
